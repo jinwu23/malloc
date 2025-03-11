@@ -1,0 +1,5 @@
+This is my implementation of the C library function malloc, calloc, realloc, and free
+
+I have built in a data structure to store metadata for memory management on the heap in the form of a linked list.
+
+This library is my favorite program that I wrote because it allowed me to see that the library calls I was making on C were just ordinary functions that I could also implement with enough low level knowledge. 
